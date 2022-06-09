@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1623686281 source:c:\users\acer\desktop\c_codeblock\restaurant billing system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
