@@ -3,5 +3,4 @@ Code::Blocks download link: https://www.codeblocks.org/downloads/
 
 We also provide the .exe file (you could find it in the bin file) and .cbp file for Code::Blocks in case you need it.
 
-If you encounter in running the code, kindly contact 011-24178915 (Ng Hao Lin Group 2 Leader)
 
